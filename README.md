@@ -1,6 +1,7 @@
 # MNSIT_Handwritten_Digit_Classification
 A CNN model that classifies MNSIT handwritten digits data
-##MNIST dataset:
+
+## MNIST dataset:
 MNIST is a collection of handwritten digits from 0-9. Image of size 28 X 28
 
 ## Introduction
